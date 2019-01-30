@@ -1,10 +1,10 @@
 !["ნდობის ევოლუცია"](https://i.imgur.com/kde760y.png)
 
-#	ითამაშეთ აქ: [http://ncase.me/trust/](http://ncase.me/trust/)
+#	ითამაშეთ აქ: [https://mishkant.github.io/trust/](https://mishkant.github.io/trust/)
 
-*The Evolution of Trust* is dedicated to the public domain, and is made thanks to the many Creative Commons & open source resources out there! Here is a full list of music, sounds, and code used:
+აპლიკაციაში გამოყენებულია შემდეგი მუსიკა, ხმის ეფექტები და კოდი:
 
-**მუსიკა:** "Bleu" by Komiku (CC Zero). [Download their full album on Free Music Archive](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
+**მუსიკა:** "Bleu" by Komiku (CC Zero). [გადმოწერა](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
 
 **ხმის ეფექტები:**
 
@@ -19,52 +19,48 @@
 * [Thump](https://freesound.org/people/Brokenphono/sounds/344149/) by Brokenphono (CC Zero)
 * [Fart](https://freesound.org/people/DSISStudios/sounds/241000/) by DSISStudios (CC Zero)
 
-**Open Source Libraries:**
+**ღია ბიბლიოთეკები:**
 
-* [PIXI.js](http://www.pixijs.com/) for rendering graphics
-* [Howler.js](https://howlerjs.com/) for the audio
-* [Tween.js](http://www.createjs.com/tweenjs) for tweening animation
-* [Balloon.css](https://kazzkiq.github.io/balloon.css/) for pop-up tooltips
-* [Q](https://github.com/kriskowal/q/) for promises
-* [MinPubSub](https://github.com/daniellmb/MinPubSub) for publish/subscribe
-* [Pegasus](https://github.com/typicode/pegasus) for me being too lazy to write my own XHR
+* [PIXI.js](http://www.pixijs.com/) გრაფიკის რენდერი
+* [Howler.js](https://howlerjs.com/) აუდიო
+* [Tween.js](http://www.createjs.com/tweenjs) ანიმაცია
+* [Balloon.css](https://kazzkiq.github.io/balloon.css/) "pop-up" - ები
+* [Q](https://github.com/kriskowal/q/) სურვილებისთვის
+* [MinPubSub](https://github.com/daniellmb/MinPubSub) გამოწერა
+* [Pegasus](https://github.com/typicode/pegasus) XHR
 
-**Font:** [Futura Handwritten](http://www.dafont.com/futurahandwritten.font) by Bill Snyder
+**ფონტი:** [Futura Handwritten](http://www.dafont.com/futurahandwritten.font) by Bill Snyder
 
-#	How-To: Translate this thang!
+#	ნათარგმნი ვერსიები:
 
-**[IMPORTANT:
-BEFORE YOU DECIDE TO MAKE A TRANSLATION, CHECK THE "ISSUES" TAB ABOVE,
-TO SEE IF SOMEONE ELSE IS ALREADY WORKING ON IT.
-If so, maybe you can collaborate!
-And if no one else is, PLEASE CREATE A NEW ISSUE in this repo
-so that others know you're working on it!]**
+**[ყურადღება: თუ დააპირებთ თქვენი წვლილი შეიტანოთ ამ აპლიკაციის განვითარებაში ქართულად შემეხმიანეთ.**
 
 თარგმნილია შემდეგ ენებზე:
-[Japanese](https://htlife.github.io/trust_jp/),
-[Chinese (Simplified)](https://sekai.co/trust/),
-[Chinese (Taiwan)](https://audreyt.github.io/trust-zh-TW/),
-[Brazilian Portuguese](https://brunolemos.github.io/trust/),
-[French](https://ayowel.github.io/trust/),
-[Spain Spanish](https://ccamara.github.io/trust/),
-[Latin American Spanish](https://maeriens.github.io/trust/),
-[Russian](https://notdotteam.github.io/trust/),
-[German](https://jkoelling.github.io/trust/),
-[Italian](https://lvdt.github.io/trust/),
-[Turkish](https://osaatcioglu.github.io/trust),
-[Polish](https://sin.github.io/trust/),
-[Vietnamese](https://nghiatt90.github.io/trust-vn/),
-[Greek](https://lightspot21.github.io/trust/),
-[Persian/Farsi](https://hamed.github.io/trust/),
-[Hungarian](http://ncase.me/trust-hu/),
-[Catalan](https://fbricart.github.io/trust/),
-[Arabic](https://mudaraljundi.github.io/trust/),
-[Bulgarian](http://ncase.me/trust-bg/),
-[Korean](https://osori.github.io/trust-ko/),
-[Romanian](https://enfactorial.github.io/trust/),
-[Ukrainian](https://yaroslav-f.github.io/trust/),
-[Croatian](http://www.varljiv.org/evolucija-povjerenja/index.html),
-[Swedish](http://trust.alicedarner.se/),
-[Estonian](http://ncase.me/trust-et/)
+[იაპონური](https://htlife.github.io/trust_jp/),
+[ჩინური](https://sekai.co/trust/),
+[ჩინური (ტაივანი)](https://audreyt.github.io/trust-zh-TW/),
+[ბრაზილიური - პორტუგალიური](https://brunolemos.github.io/trust/),
+[ფრანგული](https://ayowel.github.io/trust/),
+[ესპანური](https://ccamara.github.io/trust/),
+[ესპანური - ლათინური ამერიკა](https://maeriens.github.io/trust/),
+[რუსული](https://notdotteam.github.io/trust/),
+[გერმანული](https://jkoelling.github.io/trust/),
+[იტალიური](https://lvdt.github.io/trust/),
+[თურქული](https://osaatcioglu.github.io/trust),
+[პოლონური](https://sin.github.io/trust/),
+[ვიეტნამური](https://nghiatt90.github.io/trust-vn/),
+[ბერძნული](https://lightspot21.github.io/trust/),
+[სპარსული](https://hamed.github.io/trust/),
+[უნგრული](http://ncase.me/trust-hu/),
+[კატალონიური](https://fbricart.github.io/trust/),
+[არაბული](https://mudaraljundi.github.io/trust/),
+[ბულგარული](http://ncase.me/trust-bg/),
+[კორეული](https://osori.github.io/trust-ko/),
+[რუმინული](https://enfactorial.github.io/trust/),
+[უკრაინული](https://yaroslav-f.github.io/trust/),
+[ხორვატული](http://www.varljiv.org/evolucija-povjerenja/index.html),
+[შვედური](http://trust.alicedarner.se/),
+[ესტონური](http://ncase.me/trust-et/)
+[ქართული](https://mishkant.github.io/trust/)
 
 ახლა კი უკვე [**ქართულიც**](https://mishkant.github.io/trust/) მიემატა ^_^
