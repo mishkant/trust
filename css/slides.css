@@ -1,13 +1,13 @@
 @font-face{
 	font-family: 'bpg-nateli-webfont';
 	font-style: normal;
-	src: url('bpg-nateli-webfont.ttf') format('truetype');
+	src: url('bpg-nateli-webfont.ttf');
 }
 
 @font-face{
 	font-family: 'GLKirovi-Bold';
 	font-style: normal;
-	src: url('GLKirovi-Bold.ttf') format('truetype');
+	src: url('GLKirovi-Bold.ttf');
 }
 
 html,body{
