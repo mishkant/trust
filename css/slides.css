@@ -1,7 +1,13 @@
 @font-face{
-	font-family: 'FuturaHandwritten';
+	font-family: 'bpg-nateli-webfont';
 	font-style: normal;
-	src: url('FuturaHandwritten.ttf') format('truetype');
+	src: url('bpg-nateli-webfont.ttf') format('truetype');
+}
+
+@font-face{
+	font-family: 'GLKirovi-Bold';
+	font-style: normal;
+	src: url('GLKirovi-Bold.ttf') format('truetype');
 }
 
 html,body{
@@ -16,7 +22,7 @@ body{
 
 	background: #fff;
 
-	font-family: 'FuturaHandwritten';
+	font-family: 'bpg-nateli-webfont';
 	color: #333;
 	font-size: 16px;
 
@@ -201,7 +207,7 @@ s{
 }
 .button #text{
 	
-	font-family: 'FuturaHandwritten';
+	font-family: 'GLKirovi-Bold';
 	color: #000;
 	font-size: 24px;
 
