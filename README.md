@@ -33,7 +33,7 @@
 
 #	ნათარგმნი ვერსიები:
 
-**[ყურადღება: თუ დააპირებთ თქვენი წვლილი შეიტანოთ ამ აპლიკაციის განვითარებაში ქართულად შემეხმიანეთ.](mailto:kantaria.m@gmail.com)**
+**ყურადღება: თუ დააპირებთ თქვენი წვლილი შეიტანოთ ამ აპლიკაციის განვითარებაში ქართულად შემეხმიანეთ.**[kantaria.m@gmail.com](mailto:kantaria.m@gmail.com)
 
 თარგმნილია შემდეგ ენებზე:
 [იაპონური](https://htlife.github.io/trust_jp/),
@@ -60,7 +60,7 @@
 [უკრაინული](https://yaroslav-f.github.io/trust/),
 [ხორვატული](http://www.varljiv.org/evolucija-povjerenja/index.html),
 [შვედური](http://trust.alicedarner.se/),
-[ესტონური](http://ncase.me/trust-et/)
+[ესტონური](http://ncase.me/trust-et/),
 [ქართული](https://mishkant.github.io/trust/)
 
 ახლა კი უკვე [**ქართულიც**](https://mishkant.github.io/trust/) მიემატა ^_^
