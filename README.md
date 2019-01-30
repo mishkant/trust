@@ -1,11 +1,13 @@
 !["ნდობის ევოლუცია"](https://github.com/mishkant/trust/blob/gh-pages/game_banner.png)
 
-## ითამაშეთ აქ: 
+# ითამაშეთ აქ:
 [https://mishkant.github.io/trust/](https://mishkant.github.io/trust/)
 
-აპლიკაციაში გამოყენებულია შემდეგი მუსიკა, ხმის ეფექტები და კოდი:
 
-**მუსიკა:** "Bleu" by Komiku (CC Zero). [გადმოწერა](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
+აპლიკაციაში გამოყენებული მუსიკა, ხმის ეფექტები და კოდი:
+
+**მუსიკა:** 
+* "Bleu" by Komiku (CC Zero). [გადმოწერა](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
 
 **ხმის ეფექტები:**
 
