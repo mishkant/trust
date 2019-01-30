@@ -1,4 +1,4 @@
-!["ნდობის ევოლუცია"](https://i.imgur.com/kde760y.png)
+!["ნდობის ევოლუცია"](https://github.com/mishkant/trust/blob/gh-pages/game_banner.png)
 
 #	ითამაშეთ აქ: [https://mishkant.github.io/trust/](https://mishkant.github.io/trust/)
 
