@@ -67,4 +67,4 @@ so that others know you're working on it!]**
 [Swedish](http://trust.alicedarner.se/),
 [Estonian](http://ncase.me/trust-et/)
 
-ახლა კი უკვე **ქართულიც** მიემატა ^_^
+ახლა კი უკვე [**ქართულიც**](https://mishkant.github.io/trust/) მიემატა ^_^
