@@ -51,7 +51,7 @@ function SandboxUI(config){
 	// Tab Hitboxes
 	var _makeHitbox = function(label, x, width, pageIndex){
 
-		label = label.toUpperCase();
+		// label = label.toUpperCase();
 
 		var hitbox = document.createElement("div");
 		hitbox.className = "hitbox";
@@ -126,7 +126,7 @@ function SandboxUI(config){
 		// Label: Name
 		var popName = document.createElement("div");
 		popName.className = "sandbox_pop_label";
-		popName.innerHTML = Words.get("label_short_"+peepID).toUpperCase();
+		popName.innerHTML = Words.get("label_short_"+peepID);
 		popName.style.color = PEEP_METADATA[peepID].color;
 		popDOM.appendChild(popName);
 
