@@ -44,7 +44,7 @@ SLIDES.push({
 
 		// Buttons
 		self.add({
-			id:"buttonCheat", type:"Button", x:275, y:453, uppercase:true,
+			id:"buttonCheat", type:"Button", x:275, y:453, uppercase:false,
 			text_id:"label_cheat",
 			onclick:function(){
 				_.answer = "CHEAT";
@@ -52,7 +52,7 @@ SLIDES.push({
 			}
 		});
 		self.add({
-			id:"buttonCooperate", type:"Button", x:495, y:450, uppercase:true,
+			id:"buttonCooperate", type:"Button", x:495, y:450, uppercase:false,
 			text_id:"label_cooperate",
 			onclick:function(){
 				_.answer = "COOPERATE";

@@ -36,7 +36,7 @@ SLIDES.push({
 		// ONE Button
 		self.add({
 			id:"button", type:"Button",
-			x:383, y:463, text_id:"label_cooperate", uppercase:true,
+			x:383, y:463, text_id:"label_cooperate", uppercase:false,
 			onclick: function(){
 
 				// Make sim go
