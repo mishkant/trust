@@ -380,94 +380,88 @@ Congrats, you placed your bet on the right horse.
 Now, let's let our population of players <i>evolve over time</i>. It's a 3-step dance:
 </p>
 <p id="evolution_intro_1">
-<b>1. PLAY A TOURNAMENT</b><br>
-Let them all play against each other, and tally up their scores.
+<b>1. ჩავატაროთ ტურნირი</b><br>
+ტურნირში ვათამაშოთ ყველა ყველასთან და ბოლოს დავითვალოთ მათი დაგროვებული ქულები.
 </p>
 <p id="evolution_intro_2">
-<b>2. ELIMINATE LOSERS</b><br>
-Get rid of the 5 worst players. (if there's a tie, pick randomly between them)
+<b>2. ამოვაგდოთ დამარცხებულები</b><br>
+ამოვაგდოთ 5 ყველაზე დაბალ ქულიანი მოთამაშეს. (თანაბარი ქულების შემთხვევაში, ამოვირჩიოთ შემთხვევითად)
 </p>
 <p id="evolution_intro_3">
-<b>3. REPRODUCE WINNERS</b><br>
-Clone the 5 best players. (if there's a tie, pick randomly between them)
+<b>3. ვაკოპირებთ გამარჯვებულებს</b><br>
+ვაკოპირებთ და ვამატებთ 5 საუკეთესო მოთამაშეს. (თანაბარი ქულების შემთხვევაში, ამოვირჩიოთ შემთხვევითად)
 </p>
 <p id="evolution_intro_footer">
-...and REPEAT, for as long as you'd like.
-Note: you don't have to wait for people to literally die &amp; reproduce for culture to evolve --
-all that's needed is that "unsuccessful" behaviors go away, and "successful" behaviors are imitated.
-So now...
+...და <b>ვიმეორებთ</b> ამ ოპერაციებს მანამ, სანამ არ მოგვბეზრდება. <i>შენიშვნა: "კულტურის" განვითარებისთვის არ არის სავალდებულო ველოდოთ სანამ ადამიანები პირდაპირი გაგებით დაიხოცება ან გამრავლდება - საკმარისია ქცევის "წარუმატებელი" მოდელები გაქრეს, ხოლო "წარმატებული" მოდელები გამრავლდეს. მაშ ასე...</i>
 </p>
 <p id="evolution_intro_button">
-...let's see this in action. &rarr;
+...აბა, დავიწყოთ ევოლუცია! &rarr;
 </p>
 
 <p id="evo_1">
-Say we start with the following population of players:
-<span class="all_c">15 Always Cooperates</span>,
-<span class="all_d">5 Always Cheats</span>, and
-<span class="tft">5 Copycats</span>.
-(We'll ignore <span class="grudge">Grudger</span> &amp; <span class="prober">Detective</span> for now)
+ვთქვათ, საწყის ეტაპზე გვაქვს მოთამაშეთა შემდეგი პოპულაცია:
+<span class="all_c">15 მიამიტი(სულ თანამშრომლობს/ენდობა)</span>,
+<span class="all_d">5 თაღლითი</span>, and
+<span class="tft">5 იმიტატორი</span>.
+(ამ ეტაპზე <span class="grudge">ბოღმიკო</span> და <span class="prober">დეტექტივი</span> ამოვიღოთ)
 <br><br>
-We're going to do the tournament-eliminate-reproduce dance a dozen times or so.
-Let's make another bet! Who do you think will win the <i>first</i> tournament?
-<b>PLACE YOUR BETS, AGAIN:</b>
+გავითამაშოთ "ტურნირი-ამოგდება-კოპირების" პროცესი რამდენჯერმე. დროა ისევ გავაკეთოთ ფსონი. შენი აზრით, ვინ მოიგებს ტურნირს?
+<b>აბა, დადეთ ისევ ფსონი:</b>
 </p>
 
 <p id="evo_2_all_c">
-Makes sense, <span class="all_c">Always Cooperate</span> outnumbers everyone else right now...
+დიახ, შეიძლება, <span class="all_c">მიამიტები</span> ამ მომენტში ყველაზე მეტნი არიან...
 </p>
 <p id="evo_2_all_d">
-Makes sense, <span class="all_d">Always Cheat</span> has a lot of <span class="all_c">Always Cooperates</span> to exploit...
+არის ამაში სიმართლის წვეთი, <span class="all_d">თაღლითებს</span> ყავთ ძალიან ბევრი <span class="all_c">მიამიტი</span>, გამოსაყენებლად...
 </p>
 <p id="evo_2_tft">
-Makes sense, <span class="tft">Copycat</span> won the tournament last time, why not again?...
+კი ბატონო, <span class="tft">იმიტატორმა</span> წინა ტურნირი მოიგო, რატომაც არა ესეც რომ მოიგოს?...
 </p>
 <p id="evo_2">
-Let's see if you're correct:
+ვნახოთ აბა, მართალი ხარ თუ არა ამჯერად:
 </p>
 
 <p id="label_play_tournament">
-1) play tournament
+1) დავიწყოთ ტურნირი
 </p>
 <p id="label_eliminate_bottom_5">
-2) eliminate bottom 5
+2) ამოვაგდოთ 5 სუსტი
 </p>
 <p id="label_reproduce_top_5">
-3) reproduce top 5
+3) დავამატოთ 5 ძლიერი
 </p>
 
 <p id="evo_3_all_c">
-Alas, <span class="all_c">Always Cooperate</span> got eaten up by
-<span class="all_d">Always Cheat</span>, whose numbers have now increased by 5.
+როგორც ხედავ, <span class="all_c">მიამიტებს</span> მარტივად "შეჭამს"
+<span class="all_d">თაღლითები</span>, რომელთა რიცხვიც ახლა უკვე 5-ით გაიზარდა.
 </p>
 <p id="evo_3_all_d">
-Sadly, you were correct! The <span class="all_d">Always Cheaters</span> won this time, 
-and their numbers increased by 5.
+სამწუხაროდ, შენ მართალი იყავი... ამჯერად იმარჯვებს <span class="all_d">თაღლითები</span>, 
+და მათი რაოდენობა მატულობს 5-ით.
 </p>
 <p id="evo_3_tft">
-Alas, <span class="tft">Copycat</span> did not win – but at least they didn't do as bad
-as <span class="all_c">Always Cooperate</span>. They got eaten up by <span class="all_d">Always Cheat</span>,
-whose numbers have now increased by 5.
+ხედავ? <span class="tft">იმიტატორებმა</span> ამჯერად ვერ გაიმარჯვა – მაგრამ მთლად <span class="all_c">მიამიტებივით</span> ცუდად არ აქვთ საქმე -  <span class="all_d">მიამიტებს</span> "გადაუარეს" თაღლითებმა, რომელთა რიცხვი უკვე 5-ით გაიზარდა.
 </p>
 <p id="evo_3">
-But let's try a few more rounds of this...
+მაგრამ მოდი კიდევ რამტენიმე რაუნდი ჩავატაროთ...
 </p>
 
 <p id="evo_4">
-<span class="all_d">Always Cheat</span> is still growing,
-at the expense of <span class="all_c">Always Cooperate</span>...
+<span class="all_d">თაღლითები</span> კვლავ მატულობს,
+ <span class="all_c">მიამიტების</span> ხარჯზე...
 </p>
 
 <p id="evo_5">
-And now, all the <span class="all_c">Always Cooperates</span> are dead.
-But, wait...
+და აი, <span class="all_c">მიამიტები</span> ყველა "მკვდარია".
+მაგრამ მოიცა, რახდება?...
 </p>
 
 <p id="evo_6">
-That's right: the <span class="all_d">Always Cheats</span> became a victim of their own success!
-They exploited the naive <span class="all_c">Always Cooperators</span>,
-but once they ran out of them, they had to face the <span class="tft">Copycats</span>:
-who <i>are</i> nice, but not naive.
+დიახ! <span class="all_d">თაღლითები</span> გახდნენ საკუთარი წარმატების მძევლები!
+მათ კი გამოიყენეს საწყალი <span class="all_c">მიამიტები</span>, 
+მაგრამ როგორც კი მათი პოპულაცია ამოიწურა, ისინი დარჩნენ პირისპირ <span class="tft">იმიტატორებთან</span>:
+რომლებიც კი <i>კარგებია</i>, მაგრამ არა მიამიტები.
 </p>
 
 <p id="evo_7">
