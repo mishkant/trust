@@ -46,7 +46,7 @@ function Button(config){
 	button.style.top = config.y+"px";
 	self.setText = function(text_id){
 		var words = Words.get(text_id);
-		if(config.uppercase) words = words.toUpperCase();
+		// if(config.uppercase) words = words.toUpperCase();
 		self.setText2(words);
 	};
 	self.setText2 = function(words){
