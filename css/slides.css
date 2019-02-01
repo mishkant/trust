@@ -552,12 +552,3 @@ s{
 /*************************/
 /***** By eMKa ******/
 /*************************/
-
-.emka-div
-{
-display: none;
-}
-a.emka-link:hover+div
-{
-display: block;
-}
