@@ -552,3 +552,23 @@ s{
 /*************************/
 /***** By eMKa ******/
 /*************************/
+
+#emkathumbwrap {
+	position:relative;
+	margin:75px auto;
+	width:252px; height:252px;
+}
+.emkathumb img { 
+	border:1px solid #000;
+	margin:3px;
+	float:left;
+}
+.emkathumb span { 
+	position:absolute;
+	visibility:hidden;
+}
+.emkathumb:hover, .thumb:hover span { 
+	visibility:visible;
+	top:0; left:250px; 
+	z-index:1;
+}
